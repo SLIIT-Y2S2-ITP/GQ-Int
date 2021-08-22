@@ -34,7 +34,7 @@ class SlideShow extends Component {
             <p>Assassin's Creed Unity is an action-adventure video game developed by Ubisoft Montreal and published by Ubisoft. It was released in November 2014 for Microsoft Windows, PlayStation 4 and Xbox One, and in December 2020 for Stadia</p>
           </Carousel.Caption>
         </Carousel.Item>
-        <Carousel.Item interval={1500}>
+        <Carousel.Item interval={1300}>
           <img
             className="d-block w-100"
             src={p3}
