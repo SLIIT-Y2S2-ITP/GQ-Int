@@ -12,7 +12,7 @@ class SlideShow extends Component {
       
 
         <Carousel>
-        <Carousel.Item interval={250}>
+        <Carousel.Item interval={1000}>
           <img
             className="d-block w-100"
             src={p1}
@@ -23,7 +23,7 @@ class SlideShow extends Component {
             <p>Assassin's Creed Syndicate is an action-adventure video game developed by Ubisoft Quebec and published by Ubisoft. It was released on October 23, 2015, for PlayStation 4 and Xbox One, and on November 19, 2015, for Microsoft Windows.</p>
           </Carousel.Caption>
         </Carousel.Item>
-        <Carousel.Item interval={200}>
+        <Carousel.Item interval={1200}>
           <img
             className="d-block w-100"
             src={p2}
@@ -34,7 +34,7 @@ class SlideShow extends Component {
             <p>Assassin's Creed Unity is an action-adventure video game developed by Ubisoft Montreal and published by Ubisoft. It was released in November 2014 for Microsoft Windows, PlayStation 4 and Xbox One, and in December 2020 for Stadia</p>
           </Carousel.Caption>
         </Carousel.Item>
-        <Carousel.Item interval={150}>
+        <Carousel.Item interval={1500}>
           <img
             className="d-block w-100"
             src={p3}
