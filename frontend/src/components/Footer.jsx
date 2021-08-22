@@ -14,6 +14,7 @@ const FooterPage = () => {
     /*<div className='Footer1'>
       <table border='3px'>
         <td>
+        initial
           <th id='Fc1'>
             <Link to= '/' className='navbar-log'>
           <img src={GQ1} height='200px' width='400px;' alt="GQ logo" className="gq-logo-footer"/>
