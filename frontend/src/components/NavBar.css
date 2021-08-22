@@ -52,6 +52,7 @@
   .nav-item :hover{
     color:red;
   }
+
   
   .nav-links {
     color: #fff;
@@ -161,8 +162,6 @@
     }
   }
 
-
-
   .gq-title{
     color: #fff;
   }
@@ -171,3 +170,4 @@
     padding-bottom: 10px;
   }
 
+  

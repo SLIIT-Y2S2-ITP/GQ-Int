@@ -79,10 +79,19 @@
 .Decoratefooter{
      text-decoration: none;
      color:azure;
-     margin-top:5px;
-     margin-bottom: -5px;
+     /*margin-top:5px;*/
+     /*margin-bottom: -5px;*/
+    /* position:fixed;*/
+     
  }
 
+ 
  .Decoratefooter:hover{
      color:red;
+ }
+
+
+
+ table th td{
+     width: 2px;
  }

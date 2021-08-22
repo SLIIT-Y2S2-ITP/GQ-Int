@@ -51,22 +51,22 @@ const FooterPage = () => {
             </Link>
           </th>
           <th>  </th>
-          <th>
-            <Link to='#' id='addspace' className='Decoratefooter'>HOME </Link><br/>
-            <Link to='#' id='addspace'className='Decoratefooter'>ITEMS</Link><br/>
-            <Link to='#' id='addspace'className='Decoratefooter'>CONTACT US</Link><br/>
-            <Link to='#' id='addspace'className='Decoratefooter'>ABOUT US</Link><br/>
-          </th>
+         <th>
+          <Link to='#' id='addspace' className='Decoratefooter'><i class="fa fa-home" aria-hidden="true"> &nbsp; HOME </i></Link><br/>
+          <Link to='#' id='addspace' className='Decoratefooter'><i class="fa fa-th" aria-hidden="true"> &nbsp; ITEMS </i></Link><br/>
+          <Link to='#' id='addspace' className='Decoratefooter'><i class="fa fa-phone" aria-hidden="true"> &nbsp; CONTACT US </i></Link><br/>
+          <Link to='#' id='addspace' className='Decoratefooter'><i class="fa fa-info-circle" aria-hidden="true"> &nbsp; ABOUT US </i></Link><br/>
+         </th>
           <th></th>
           <th>
-            <i className='fab fa-facebook' id='fb' style={{color:"#34b7f1"}} ></i>
-            <i className='fab fa-whatsapp' id='fb' style={{color:"#25d366"}}></i>
-            <i className='fab fa-viber' id='fb' style={{color:"#B026FF"}}></i>
+          <Link to='#' id='facebook'><i className='fab fa-facebook fa-2x' id='fb' style={{color:"#34b7f1"}} ></i></Link>
+            <i className='fab fa-whatsapp fa-2x' id='fb' style={{color:"#25d366"}}></i>
+            <i className='fab fa-viber fa-2x' id='fb' style={{color:"#B026FF"}}></i><br/>
             <h5 className='GQcontact'>Contact: 072 778 7788</h5><br/>
             <h5 className='GQcontactE'>Email: contactgqintl@gmail.com</h5>
           </th>
           <th ></th>
-          <th >
+          <th ><br/>
         <h5 id='addspace1' className='address-1'>231/10 2/3</h5><br/>
         <h5 id='addspace1' className='address-2'>Panchikawatta Rd,</h5><br/>
         <h5 id='addspace1' className='address-3'>Colombo 10</h5><br/>
